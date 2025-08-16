@@ -11,7 +11,7 @@ Powered by the [PokéAPI](https://pokeapi.co/), it allows you to **search and ex
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project](https://your-deployment-link.com) *(Deploy on Vercel/Netlify/GitHub Pages and update this link)*
+🔗 [View Project](https://retro-pokedex-app.netlify.app/) *(Deploy on Vercel/Netlify/GitHub Pages and update this link)*
 
 ---
 
@@ -28,17 +28,10 @@ Powered by the [PokéAPI](https://pokeapi.co/), it allows you to **search and ex
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, TailwindCSS, TypeScript
 - **API:** [PokéAPI](https://pokeapi.co/)
-- **Build Tool:** Vite (or your bundler if different)
+- **Build Tool:** Next.js (or your bundler if different)
 
 ---
 
-## 📸 Screenshots
-
-| Home | Pokémon Details |
-|------|-----------------|
-| ![Home](assets/screenshot-home.png) | ![Details](assets/screenshot-details.png) |
-
-*(Add screenshots in the `assets/` folder and update paths above)*
 
 ---
 
@@ -112,6 +105,3 @@ This project is licensed under the **MIT License** – free to use and modify.
 
 ## 👨‍💻 Author
 **Mohd Kamil**  
-- 🌐 Portfolio: [Your Portfolio Link]([https://your-portfolio.com](https://mohd-kamil-portfolio-00.netlify.app/))  
-- 💼 LinkedIn: [Mohd Kamil](https://www.linkedin.com/in/mohd-kamil/)  
-- 🐙 GitHub: [@Mohd-Kamil](https://github.com/Mohd-Kamil)

@@ -11,7 +11,7 @@ Powered by the [PokéAPI](https://pokeapi.co/), it allows you to **search and ex
 ---
 
 ## 🚀 Live Demo
-🔗 [View Project](https://retro-pokedex-app.netlify.app/) *(Deploy on Vercel/Netlify/GitHub Pages and update this link)*
+🔗 [View Project](https://pokedex-mohd-kamils-projects.vercel.app/) *(Deploy on Vercel/Netlify/GitHub Pages and update this link)*
 
 ---
 
